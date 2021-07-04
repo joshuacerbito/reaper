@@ -3,7 +3,7 @@ Cockos Reaper DAW
 
 ### My personal collection of presets for ReaPlugs & JS Effects.
 
-Feel free to download, use & share! **Sharing is caring! ![](https://github.com/koulaxizis/reaper/blob/master/Images/Beating_heart.gif)**
+Feel free to download, use & share! **Sharing is caring! ![](https://github.com/joshuacerbito/reaper/blob/master/Images/Beating_heart.gif)**
 
 If you are familiar with GitHub, you can *Watch*, *Star* & *Fork* this repository.
 
@@ -17,39 +17,39 @@ This is a work in progress. Once in a while, it will be updated with new presets
 Instructions:
 -------------
 
-**For the INI files**  ~ :warning: Read the [Warning](https://github.com/koulaxizis/reaper#warning) first!
+**For the INI files**  ~ :warning: Read the [Warning](https://github.com/joshuacerbito/reaper#warning) first!
  
- ![](https://github.com/koulaxizis/reaper/blob/master/Images/Win.png) Move the INI Files into C:/Users/*YourUserName*/AppData/Roaming/REAPER/
+ ![](https://github.com/joshuacerbito/reaper/blob/master/Images/Win.png) Move the INI Files into C:/Users/*YourUserName*/AppData/Roaming/REAPER/
 
- ![](https://github.com/koulaxizis/reaper/blob/master/Images/Tux.png) Move the INI Files into /*your-username*/.config/REAPER/
+ ![](https://github.com/joshuacerbito/reaper/blob/master/Images/Tux.png) Move the INI Files into /*your-username*/.config/REAPER/
 
 **For the FX Chains**
  
- ![](https://github.com/koulaxizis/reaper/blob/master/Images/Win.png) Move the FXChains files into C:/Users/*YourUserName*/AppData/Roaming/REAPER/FXChains/
+ ![](https://github.com/joshuacerbito/reaper/blob/master/Images/Win.png) Move the FXChains files into C:/Users/*YourUserName*/AppData/Roaming/REAPER/FXChains/
 
- ![](https://github.com/koulaxizis/reaper/blob/master/Images/Tux.png) Move the FXChains files into /*your-username*/.config/REAPER/FXChains/
+ ![](https://github.com/joshuacerbito/reaper/blob/master/Images/Tux.png) Move the FXChains files into /*your-username*/.config/REAPER/FXChains/
 
 **For the Project Templates**
 
- ![](https://github.com/koulaxizis/reaper/blob/master/Images/Win.png) Move the Template files into C:/Users/*YourUserName*/AppData/Roaming/REAPER/ProjectTemplates/
+ ![](https://github.com/joshuacerbito/reaper/blob/master/Images/Win.png) Move the Template files into C:/Users/*YourUserName*/AppData/Roaming/REAPER/ProjectTemplates/
 
- ![](https://github.com/koulaxizis/reaper/blob/master/Images/Tux.png) Move the Template files into /*your-username*/.config/REAPER/ProjectTemplates/
+ ![](https://github.com/joshuacerbito/reaper/blob/master/Images/Tux.png) Move the Template files into /*your-username*/.config/REAPER/ProjectTemplates/
 
-**For the Configuration Settings** ~ :warning: Read the [Advice](https://github.com/koulaxizis/reaper#advice) first!
+**For the Configuration Settings** ~ :warning: Read the [Advice](https://github.com/joshuacerbito/reaper#advice) first!
 
- ![](https://github.com/koulaxizis/reaper/blob/master/Images/Win.png) Move the Configuration Settings into C:/Users/*YourUserName*/AppData/Roaming/REAPER/presets/
+ ![](https://github.com/joshuacerbito/reaper/blob/master/Images/Win.png) Move the Configuration Settings into C:/Users/*YourUserName*/AppData/Roaming/REAPER/presets/
 
- ![](https://github.com/koulaxizis/reaper/blob/master/Images/Tux.png) Move the Configuration Settings into /*your-username*/.config/REAPER/presets/
+ ![](https://github.com/joshuacerbito/reaper/blob/master/Images/Tux.png) Move the Configuration Settings into /*your-username*/.config/REAPER/presets/
 
 **For the RPL files**
 
- ![](https://github.com/koulaxizis/reaper/blob/master/Images/Tux.png) ![](https://github.com/koulaxizis/reaper/blob/master/Images/Win.png) Run Reaper, open the FX unit, click the "+" button, choose "Import preset library (.rpl)"
+ ![](https://github.com/joshuacerbito/reaper/blob/master/Images/Tux.png) ![](https://github.com/joshuacerbito/reaper/blob/master/Images/Win.png) Run Reaper, open the FX unit, click the "+" button, choose "Import preset library (.rpl)"
 
-**For the JS Effects** ~ :warning: Read the [Extras](https://github.com/koulaxizis/reaper#extras) first!
+**For the JS Effects** ~ :warning: Read the [Extras](https://github.com/joshuacerbito/reaper#extras) first!
 
- ![](https://github.com/koulaxizis/reaper/blob/master/Images/Win.png) Move the JS Effect files (or folders) into C:/Users/*YourUserName*/AppData/Roaming/REAPER/Effects/
+ ![](https://github.com/joshuacerbito/reaper/blob/master/Images/Win.png) Move the JS Effect files (or folders) into C:/Users/*YourUserName*/AppData/Roaming/REAPER/Effects/
 
- ![](https://github.com/koulaxizis/reaper/blob/master/Images/Tux.png) Move the JS Effect files (or folders) into /*your-username*/.config/REAPER/Effects/ 
+ ![](https://github.com/joshuacerbito/reaper/blob/master/Images/Tux.png) Move the JS Effect files (or folders) into /*your-username*/.config/REAPER/Effects/ 
 
 ---
 
@@ -76,7 +76,7 @@ Contents:
  - SWS Auto Color/Icon
  
 **FX Chains**
- - 12 FXchains for Mixing [[1 & 2]](https://github.com/koulaxizis/reaper#extras)
+ - 12 FXchains for Mixing [[1 & 2]](https://github.com/joshuacerbito/reaper#extras)
  - 1 FXchain for Mastering
 
 **Templates**
@@ -110,7 +110,7 @@ Contents:
  - Tonifier v2
  - 4-Band EQ
  - 4x4 EQ
- - Lo-fi  [[3]](https://github.com/koulaxizis/reaper#extras)
+ - Lo-fi  [[3]](https://github.com/joshuacerbito/reaper#extras)
  - Paranoia Mangler
  - Butterworth 4-Pole Filter
 
